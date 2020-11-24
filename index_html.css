@@ -1,0 +1,98 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#table_49ec4bae th { border: 1px solid #1392C5;  } 
+#table_49ec4bae td { border: 1px solid #1392C5;  } 
+#gallery_10fa1e7e div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
+#gallery_10fa1e7e div.galleryimgcontainer img {  width: 100%;  } 
+@media only screen and (max-width:420px) { #gallery_10fa1e7e div.galleryimgcontainer { width: 50%; } } 
+@media only screen and (max-width:320px) { #gallery_10fa1e7e div.galleryimgcontainer { width: 100%; } } 
+body { background-color:#D4D2D5; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_75efadc6 { vertical-align: top; position:relative; display: inline-block; width:108%; min-height:177px; background-color:#FFFFFF; background-image: url(rc_images/horizonte_ciudad_toronto_noche_ontario_canada_131985_283.jpg); background-position:bottom center; background-repeat:repeat-x;  }
+#container_75efadc6_padding { margin: 10px; display: block;  }
+.textstyle2 { font-size:26pt; font-family:Impact, Charcoal, sans-serif; color:#FFFFFF;  }
+.textstyle3 { text-align:center; }
+.textstyle4 { font-size:28pt; font-family:Impact, Charcoal, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px #000000;  }
+#container_74c5dc35 { vertical-align: top; position:relative; display: inline-block; width:108%; min-height:68px; background-color:#9A5AF3;  }
+#container_74c5dc35_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:13pt; font-family:Arial, Helvetica, sans-serif; color:#004080;  }
+#container_e4bf9ac { vertical-align: top; position:relative; display: inline-block; width:95%; min-height:86px; background:none;  }
+#container_e4bf9ac_padding { margin: 10px; display: block;  }
+#anchor_66675b11 { vertical-align: bottom; position:relative; display: inline-block;  }
+.textstyle6 { font-size:28pt; font-family:Impact, Charcoal, sans-serif; color:#7C2933;  }
+#heading_54a1c552 { vertical-align: bottom; position:relative; display: inline-block; width:606px; background:none;  }
+.textstyle7 { text-align:center;display: block }
+.textstyle8 { font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle9 { font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#table_49ec4bae { box-sizing: border-box; vertical-align: bottom; border-radius: 15px; position:relative; display: inline-table; width:64%; height:256px; background-color:#ACEDEA; border: 1px solid #1392C5; table-layout: fixed;  }
+#cell_4c46cf44 {  }
+#cell_67c5a5c8 {  }
+#cell_6530c995 {  }
+#cell_f645165 {  }
+#cell_15ec8179 {  }
+#cell_5d6e8fc5 {  }
+#cell_4a8d779a {  }
+#cell_5f0116bc {  }
+#cell_3984735a {  }
+#cell_11b4f6cd {  }
+#cell_3984735a {  }
+#cell_3984735a {  }
+#cell_3984735a {  }
+#cell_3984735a {  }
+#cell_3984735a {  }
+#cell_3984735a {  }
+.textstyle11 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#100E0E;  }
+#container_647c82f5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_647c82f5_padding { margin: 10px; display: block;  }
+#anchor_6532fa0e { vertical-align: bottom; position:relative; display: inline-block;  }
+.textstyle12 { font-size:28pt; font-family:Impact, Charcoal, sans-serif; color:#800000;  }
+#img_4081172c { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none;  }
+#img_27a5273a { vertical-align: bottom; position:relative; display: inline-block; width:41%; background:none;  }
+#img_37cf11ab { vertical-align: bottom; position:relative; display: inline-block; width:39%; background:none;  }
+#img_67ff2894 { vertical-align: bottom; position:relative; display: inline-block; width:42%; background:none;  }
+#container_1abba20d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:352px; background:none;  }
+#container_1abba20d_padding { margin: 10px; display: block;  }
+.textstyle13 { font-size:22pt; font-family:Impact, Charcoal, sans-serif; color:#000000;  }
+#img_36bd4fd1 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none;  }
+#img_633d4dc3 { vertical-align: bottom; position:relative; display: inline-block; width:22%; background:none;  }
+#text_1994e0d2 { position:absolute; left:44%; top:88%; background:none;  }
+#container_6f123cbb { vertical-align: top; position:relative; display: inline-block; width:103%; min-height:632px; background:none;  }
+#container_6f123cbb_padding { margin: 10px; display: block;  }
+#container_19a214ce { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_19a214ce_padding { margin: 10px; display: block;  }
+.textstyle14 { font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#youtube_366cb74c { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:32%; height:227px; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
+.textstyle15 { font-size:22pt; font-family:Impact, Charcoal, sans-serif; color:#800000;  }
+#anchor_6058d15 { vertical-align: bottom; position:relative; display: inline-block;  }
+#container_4cfbf672 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_4cfbf672_padding { margin: 10px; display: block;  }
+.textstyle16 { font-size:18pt; font-family:'Arial Black', Gadget, sans-serif; color:#004080;  }
+#text_289b6f13 { position:absolute; left:3%; top:33%; width:601px; height:85px; background:none;  }
+.textstyle17 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_7302d56d { vertical-align: top; position:relative; display: inline-block; width:105%; min-height:239px; background:none;  }
+#container_7302d56d_padding { margin: 10px; display: block;  }
+#text_56d2fcb6 { position:absolute; left:2%; top:28%; width:637px; height:126px; background:none;  }
+#gallery_10fa1e7e { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
+#container_2aa5a736 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_2aa5a736_padding { margin: 10px; display: block;  }
+.textstyle18 { font-size:16pt; font-family:Impact, Charcoal, sans-serif; color:#000000;  }
+#youtube_12d1eed0 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:35%; height:221px; background-color:#D1D1D1; border: 7px solid #A0A0A0;  }
+#container_7901585d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:333px; background:none;  }
+#container_7901585d_padding { margin: 10px; display: block;  }
+#anchor_250423ca { vertical-align: bottom; position:relative; display: inline-block;  }
+#text_7bfc192b { position:absolute; left:3%; top:47%; background:none;  }
+#container_2ba0dbc0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_2ba0dbc0_padding { margin: 10px; display: block;  }
+.textstyle19 { font-size:18pt; font-family:'Arial Black', Gadget, sans-serif; color:#000000;  }
+#img_22f72509 { vertical-align: bottom; position:relative; display: inline-block; width:36%; background:none;  }
+#container_1f2ec5b6 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:313px; background:none;  }
+#container_1f2ec5b6_padding { margin: 10px; display: block;  }
+#anchor_4710ac38 { vertical-align: bottom; position:relative; display: inline-block;  }
+#text_54323429 { position:absolute; left:5%; top:48%; background:none;  }
+.textstyle20 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#container_304cc980 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:199px; background-color:#00FFFF;  }
+#container_304cc980_padding { margin: 10px; display: block;  }
